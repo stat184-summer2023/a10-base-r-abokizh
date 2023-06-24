@@ -18,7 +18,7 @@ iris[10,5]
 
 #### Select the Species column in `iris` dataset and print the last 5 rows of that column
 ```{r}
-tail(iris[,"Species"], 5)
+tail(iris[ ,"Species"], 5)
 ```
 
 
